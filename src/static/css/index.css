@@ -1,0 +1,14 @@
+body{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 100wh;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
